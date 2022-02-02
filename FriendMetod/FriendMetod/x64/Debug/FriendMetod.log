@@ -1,0 +1,3 @@
+﻿  FriendMetod.cpp
+C:\Users\kindr\source\repos\FriendMetod\FriendMetod\FriendMetod.cpp(32,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  FriendMetod.vcxproj -> C:\Users\kindr\source\repos\FriendMetod\x64\Debug\FriendMetod.exe

@@ -1,0 +1,12 @@
+﻿"FriendMetod.exe" (Win32). Загружено "C:\Users\kindr\source\repos\FriendMetod\x64\Debug\FriendMetod.exe". Символы загружены.
+"FriendMetod.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"FriendMetod.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"FriendMetod.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"FriendMetod.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"FriendMetod.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 0xa794 завершился с кодом 0 (0x0).
+"FriendMetod.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"FriendMetod.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+Поток 0xa5dc завершился с кодом 0 (0x0).
+Поток 0xa494 завершился с кодом 0 (0x0).
+Программа "[39812] FriendMetod.exe" завершилась с кодом 0 (0x0).
