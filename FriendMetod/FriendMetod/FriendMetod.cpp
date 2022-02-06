@@ -52,7 +52,7 @@ int main()
 {
 	Point A(50, 18);
 	Point B(37, 5);
-	Point C(29, 11);
+	Point C(13, 17);
 	Triangel(A, B, C);
 	Sleep(3000);
 	system("cls");
